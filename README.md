@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vasisht
-- 👀 🔭 I’m currently working on React-App
+- 👀 🔭 I’m currently working on NodeJS,ExpressJS
 - 🌱 I’m currently learning MERN stack App
 - 💞️ I’m looking to collaborate on Front-End Apps 
 - 📫 How to reach me vasishtadbhat@gmail.com
