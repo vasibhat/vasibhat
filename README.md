@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vasisht
 - :) WEB DEVELOPER/FREELANCER
-- 👀 🔭 I’m currently working on NodeJS,ExpressJS
+- 👀 🔭 I’m currently working on NextJS,TypeScript
 - 🌱 I’m currently learning MERN stack App
 - 💞️ I’m looking to collaborate on Front-End Apps 
 - 📫 How to reach me vasishtadbhat@gmail.com
