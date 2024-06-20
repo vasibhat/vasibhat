@@ -10,7 +10,7 @@
 
 
 Languages and Tools:
-HTML5,CSS3,JS,React,Nodejs,MongoDB
+HTML5,CSS3,React,Javascript,Typescript,NextJS,NodeJS,MongoDB
 
 
 
