@@ -5,6 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasibhat" alt="vasibhat" /></a> </p>
 
+- 🔭 I’m currently working on **Web3**
+
+- 🌱 I’m currently learning **Solidity**
+
+- 👯 I’m looking to collaborate on **Decentralized apps**
+
+- 💬 Ask me about **React,Ui/UX**
+
+- 📫 How to reach me **vasishtadbhat@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vasisht_bhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vasisht_bhat" height="30" width="40" /></a>
